@@ -1,0 +1,2 @@
+/home/leopauly/Desktop/ACRI/test/gcccv/build/CMakeFiles/test.dir
+/home/leopauly/Desktop/ACRI/test/gcccv/build/CMakeFiles/test2.dir
